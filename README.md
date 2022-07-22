@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Member Management
+## Recruiting
+	- Ranks
+	- Adding to in-game clan
+		- Adding with flag
+		- Adding just using menu
+	- Forum Posts
+		- Link to thread
+	- Adding to Discord
+		- Name Change
+		- Assign Roles
 
-You can use the [editor on GitHub](https://github.com/anonzak/Mercy_Cookbook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Removing Users
+	- Warnings
+	- From in-game clan
+		- Banning
+	- From Discord
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Rank Day
+	- Timeframe/how often
+	- Finding members deserving rank
+	- Rank day Discord announcement
+	- Adjusting ranks
+		- Discord
+		- In-game
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anonzak/Mercy_Cookbook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Events
+## Skill/Challenge of the Week
+	- Schedule
+	- Creating Discord poll
+	- Creating Wise Old Man event
+		- Tracking code
+		- Adding members to competition
+	- End of competition announcement
+		- Handling prizes
+			- Member announcing prize
+				- Collecting/tracking prize
+			- Rolling RNG prizes
+			- Distributing prizes
