@@ -24,6 +24,10 @@
 		- Discord
 		- In-game
 
+## Rank Permissions
+	- Discord
+	- In-game
+
 # Events
 ## Skill/Challenge of the Week
 	- Schedule
